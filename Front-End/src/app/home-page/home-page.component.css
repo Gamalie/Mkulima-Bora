@@ -1,0 +1,43 @@
+[
+    class*="col-"
+]{
+    float:left;
+}
+
+.col-1{
+    width:16%;
+}
+.col-2{
+    width:50%;
+}
+.col-3{
+    width:33%;
+}
+.col-4{
+    width:64%;
+}
+.col-5{
+    width:20%;
+}
+.col-6{
+    width:100%;
+}
+.footer{
+    color:yellow;
+}
+.quick-links{
+    padding:1%;
+}
+li{
+    display:block;
+}
+.left-borders{
+    border-left: rgba(154, 143, 143, 0.365) 1.4px solid;
+}
+.bottom-borders{
+    border-bottom: rgba(154, 143, 143, 0.365) 1.4px solid;
+}
+.align-center{
+   display:flex;
+   align-items: center;
+}
